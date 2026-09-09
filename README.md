@@ -2,7 +2,6 @@
 ¡Hola! Soy Abril 😊
 
 
-<!--
 ### Stack & Tecnologías
 
 * **Lenguajes:** Python, Dart, SQL, JavaScript, C++
@@ -10,7 +9,8 @@
 * **Datos & Almacenamiento:** MariaDB, PostgreSQL, SQL Server, MySQL, MongoDB, Parquet, Pandas, Polars
 * **IA, Deep Learning & MLOps:** RAG Architectures, Computer Vision (YOLOv7), Transformers, Vector Search (FAISS, pgvector), Local LLMs (Ollama), Speech-to-Text (Whisper)
 * **DevOps & Herramientas:** Docker, Git/GitHub, Linux, Conda, n8n
-
+  
+<!--
 ### GitHub Stats
 
 <p align="left">
