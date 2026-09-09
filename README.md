@@ -6,7 +6,7 @@
 
 * **Lenguajes:** Python, Dart, SQL, JavaScript, C++
 * **Backend & Frameworks:** FastAPI, Flask, Streamlit, PySide6, Flutter
-* **Datos & Almacenamiento:** MariaDB, PostgreSQL, SQL Server, MySQL, MongoDB, Parquet, Pandas, Polars
+* **Datos & Almacenamiento:** MariaDB, PostgreSQL, SQL Server, MySQL, MongoDB, Parquet, Pandas
 * **IA, Deep Learning & MLOps:** RAG Architectures, Computer Vision (YOLOv7), Transformers, Vector Search (FAISS, pgvector), Local LLMs (Ollama), Speech-to-Text (Whisper)
 * **DevOps & Herramientas:** Docker, Git/GitHub, Linux, Conda, n8n
   
